@@ -1,0 +1,12 @@
+name: PrimeraVueltaR
+title: PrimeraVueltaR
+username: rodrigoabustamante
+account: rodrigoabustamante
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16140027
+bundleId: 11217666
+url: https://rodrigoabustamante.shinyapps.io/PrimeraVueltaR/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
